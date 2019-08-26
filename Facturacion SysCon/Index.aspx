@@ -24,7 +24,7 @@
                 <asp:Label ID="Label2" runat="server" Text="Clave:"></asp:Label>
                 <asp:TextBox ID="txtClaveLogin" runat="server">*</asp:TextBox>
                 <br />
-                <asp:Button ID="btnAceptarLogin" runat="server" Text="Aceptar" />
+                <asp:Button ID="btnAceptarLogin" runat="server" Text="Aceptar" OnClick="btnAceptarLogin_Click" />
                 <br />
                 <asp:Label ID="lblConexion" runat="server"></asp:Label>
             </div>

@@ -33,9 +33,12 @@ namespace Facturacion_SysCon.Datos
             string salida = "Usuario insertado exitosamente";
             try
             {
-                cmd = new SqlCommand(
-                    "insert into Usuario(CodigoUsuario, Nombre, Clave) " +
-                    "values("+cod+", '"+nombre+"','"+clave+"')",cn);
+                //cmd = new SqlCommand(
+                //    "insert into Usuario(CodigoUsuario, Nombre, Clave) " +
+                //    "values("+cod+", '"+nombre+"','"+clave+"')",cn);
+                //cmd.ExecuteNonQuery();
+                cmd = new SqlCommand("insertarUsuario " + cod + ", '" + nombre + "','" + clave + "' ", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
                 cmd.ExecuteNonQuery();
 
             } catch (Exception ex)
@@ -43,6 +46,22 @@ namespace Facturacion_SysCon.Datos
                 salida = "error al insertar usuario: "+ex.ToString();
             }
             return salida;
+        }
+        public bool buscarUsuario(string usuario, string clave)
+        {
+            bool band = false;
+            try
+            {
+                cmd = new SqlCommand(
+                    "select * from Usuario where '"+usuario+"' == Nombre AND '"+clave+"' == Clave ",cn);
+                cmd.ExecuteNonQuery();
+                band = true;
+            }
+            catch (Exception ex)
+            {
+                band = false;
+            }
+            return band;
         }
 
     }

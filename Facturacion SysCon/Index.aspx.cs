@@ -24,5 +24,21 @@ namespace Facturacion_SysCon
             Response.Write("<script>console.log('Conexion exitosaaaaa');</script>");
         }
 
+        protected void btnAceptarLogin_Click(object sender, EventArgs e)
+        {
+                var cn = new Conexion();
+            
+            try
+            {
+                if (cn.buscarUsuario(txtUsuarioLogin.Text, txtClaveLogin.Text)==true)
+                {
+                    Response.Redirect("Usuarios.aspx");
+                }
+            }
+            catch (Exception ex)
+            {
+                Response.Write("<script>console.log('Error de Usuario o Contraseña');</script>");
+            }
+        }
     }
 }
