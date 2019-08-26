@@ -1,0 +1,56 @@
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\Facturacion SysCon.dll.config
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\Facturacion SysCon.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\Facturacion SysCon.pdb
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\csc.exe
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\csc.exe.config
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\csc.rsp
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\csi.exe
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\csi.exe.config
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\csi.rsp
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.AppContext.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Collections.Immutable.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Console.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.IO.Compression.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.IO.FileSystem.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.IO.Pipes.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Reflection.Metadata.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.AccessControl.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.Claims.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.ValueTuple.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Xml.XPath.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\vbc.exe
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\vbc.exe.config
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\vbc.rsp
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\VBCSCompiler.exe
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\roslyn\VBCSCompiler.exe.config
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\obj\Debug\Facturacion SysCon.csproj.CoreCompileInputs.cache
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\obj\Debug\Facturacion SysCon.csproj.CopyComplete
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\obj\Debug\Facturacion SysCon.dll
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\obj\Debug\Facturacion SysCon.pdb
+E:\Educacion\C#\Facturacion SysCon\Facturacion SysCon\obj\Debug\Facturacion SysCon.csprojAssemblyReference.cache
